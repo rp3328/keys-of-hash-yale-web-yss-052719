@@ -4,6 +4,6 @@ class Hash
     arr = []
     temp.each do |key, val|
       
-    
+
   end
 end
