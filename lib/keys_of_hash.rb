@@ -1,8 +1,9 @@
 class Hash
-  def keys_of(arguments)
+  def keys_of(*arguments)
     # code goes here
-    arr []
-
+    arr = []
+    temp.each do |key, val|
+      
     
   end
 end
