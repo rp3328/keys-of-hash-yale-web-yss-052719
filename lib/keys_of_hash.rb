@@ -4,7 +4,7 @@ class Hash
     arr = []
     self.each do |key, val|
       if arguments.include?(val)
-        arr << keys_of
+        arr << key
       end
     end
 
